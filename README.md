@@ -3,7 +3,7 @@
 > Landing page institucional para serviço de transporte executivo, desenvolvida com foco em **elegância, credibilidade, experiência do usuário e conversão de clientes**.
 
 <div align="center">
-    ![LetaAlves](assets/logo/letaAlvesLogo.png)
+    assets/logo/letaAlvesLogo.png
 </div>
 
 
